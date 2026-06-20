@@ -1,0 +1,9 @@
+Age,Salary,City,Gender,Purchased
+20,30000,Pune,Male,0
+22,40000,Mumbai,Female,1
+25,45000,Delhi,Male,0
+25,50000,Pune,Male,1
+27,50000,Pune,Female,1
+120,1000000,Mumbai,Male,0
+30,55000,Delhi,Male,1
+25,60000,Pune,Female,1

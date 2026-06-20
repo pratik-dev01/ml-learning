@@ -1,0 +1,6 @@
+id,name,email,role,status
+1,Raj Sharma,raj.s@email.com,Admin,Active
+2,Priya Singh,priya.s@email.com,Editor,Active
+3,Amit Patel,a.patel@email.com,Viewer,Inactive
+4,Neha Gupta,n.gupta@email.com,Editor,Active
+
